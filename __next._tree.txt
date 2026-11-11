@@ -2,4 +2,4 @@
 :HL["/velvet-quokka-almanac/_next/static/chunks/0t2e37rf7oa-e.css","style"]
 :HL["/velvet-quokka-almanac/_next/static/media/234d9015b631dab9-s.p.33gca1im1ku45.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/velvet-quokka-almanac/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"(demo)","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"RJr5eD-sgJaEKgu1T4lSc"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"M0gLEDL_PIOTYML8-C86N"}
